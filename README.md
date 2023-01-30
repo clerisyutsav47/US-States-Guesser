@@ -1,4 +1,4 @@
-# US-States-Guesser--Game
+# US-States-Guesser
 This project is a simple python program that quizzes the user on the names of the 50 states in the United States. The program uses the turtle library to display an image of the United States, and allows the user to enter the names of the states they know. The program also keeps track of the states the user has missed and writes them to a CSV file.
 
 # Requirements
